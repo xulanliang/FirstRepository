@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T07:08:01.831Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="cM14g6nJWJD7spWtHiWm" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T07:10:02.714Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="mRi8JTxiTm-cAV8V6tuB" version="14.7.6" type="github">
   <diagram id="gxX4angruf3AOyrAFuu7" name="Page-1">
     <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2OLkUS8ywqqW9sf56QYj-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="120" height="50" as="geometry" />
+        <mxCell id="2OLkUS8ywqqW9sf56QYj-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2OLkUS8ywqqW9sf56QYj-7" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2OLkUS8ywqqW9sf56QYj-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="95" y="130" width="10" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
