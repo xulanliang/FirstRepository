@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T09:40:12.943Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="a2QkMKMY_HkPrFuZYUre" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T09:40:57.094Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="MbRCk_L3ab524DbQEKEQ" version="14.7.7" type="github">
   <diagram id="gxX4angruf3AOyrAFuu7" name="Page-1">
     <mxGraphModel dx="2188" dy="3" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
         <mxCell id="MrqCe1z4D1NF1oKwnyJS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrqCe1z4D1NF1oKwnyJS-3" target="MrqCe1z4D1NF1oKwnyJS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MrqCe1z4D1NF1oKwnyJS-3" value="登录成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MrqCe1z4D1NF1oKwnyJS-3" value="生成token&lt;br&gt;登录成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="307.505" y="2650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MrqCe1z4D1NF1oKwnyJS-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
