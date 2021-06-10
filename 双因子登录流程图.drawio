@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T06:54:58.828Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="vNJu2oVCx_tPgXbjtPC-" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T06:57:22.792Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="vHSeOxLkd5MCDsUeH0JK" version="14.7.6" type="github">
   <diagram id="gxX4angruf3AOyrAFuu7" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,10 +229,10 @@
           <mxGeometry x="348" width="175" height="39" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-191" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;human&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2OLkUS8ywqqW9sf56QYj-187" vertex="1">
-          <mxGeometry x="523" width="173" height="39" as="geometry" />
+          <mxGeometry x="523" width="172" height="39" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-192" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;message-send&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2OLkUS8ywqqW9sf56QYj-187" vertex="1">
-          <mxGeometry x="696" width="169" height="39" as="geometry" />
+          <mxGeometry x="695" width="170" height="39" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-193" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;zxy-log&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2OLkUS8ywqqW9sf56QYj-187" vertex="1">
           <mxGeometry x="865" width="180" height="39" as="geometry" />
@@ -250,10 +250,10 @@
           <mxGeometry x="348" width="175" height="1022" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-198" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2OLkUS8ywqqW9sf56QYj-194" vertex="1">
-          <mxGeometry x="523" width="173" height="1022" as="geometry" />
+          <mxGeometry x="523" width="172" height="1022" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-199" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2OLkUS8ywqqW9sf56QYj-194" vertex="1">
-          <mxGeometry x="696" width="169" height="1022" as="geometry" />
+          <mxGeometry x="695" width="170" height="1022" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-200" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2OLkUS8ywqqW9sf56QYj-194" vertex="1">
           <mxGeometry x="865" width="180" height="1022" as="geometry" />
@@ -348,11 +348,17 @@
         <mxCell id="2OLkUS8ywqqW9sf56QYj-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2OLkUS8ywqqW9sf56QYj-241" target="2OLkUS8ywqqW9sf56QYj-243" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IdB_Foy8JLrlOCiQw1jA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OLkUS8ywqqW9sf56QYj-241" target="IdB_Foy8JLrlOCiQw1jA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-241" value="用户已绑定手机号" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="2160" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2OLkUS8ywqqW9sf56QYj-243" value="发送手机动态码" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="2167.5" width="103" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IdB_Foy8JLrlOCiQw1jA-1" value="返回脱敏手机号&lt;br&gt;/用户姓名" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="2260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
