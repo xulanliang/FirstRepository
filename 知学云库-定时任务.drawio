@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T07:14:32.754Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="e8i9pMIVduWJ_2ZgfoF6" version="14.9.8" type="github"><diagram id="dEx86dSYwrzgcJbfhVJY" name="第 1 页">5Vldc5s4FP01mtk+ZIZvwyM4uPuwm+lMHnZ2XzoyyFipQFTIsd1fv1dCGGNI6rZxGrcvyeXqi3t07rkSRu683L0XuF7/zXPCkGPlO+TeIseJPAf+Kse+dfih2zoKQfPWZfeOe/qFGKdlvBuak2bQUXLOJK2HzoxXFcnkwIeF4NthtxVnw1VrXJCR4z7DbOz9h+Zy3XpDZ9b7/yS0WHcr20HUtpS462wiadY459sjl5sidy44l61V7uaEKew6XNpxiydaDy8mSCXPGfA5uSsedrP6YfGxsv8Tq/LOqW/MZjxitjEBm5eV+w4BkgMg5pELueYFrzBLe28i+KbKiVrGgqe+z1+c1+C0wflApNyb3cUbycG1liUzreNQTHQN34iMPPP+HSWwKIh8pp8JS8VytIAB6j3hJZFiDx0EYVjSx+HmY8Oh4tCvhxkMg/Q3oG6PUU99lMxRaCkjnqEwGe8DY0B6hfd2TSW5r7FGZgtpdyaaj0RIsns2ftPquIbfJmtt35B42+eAbQWtb33Ef8+6EGT+lRPVOZOo3tsiqvWbwB69KdidJ/UBjADFtyj2lRFGSivSEMU2CuejnRFrXi43zesoRqcQ+05BxooRWmPBCC8lGOGVM9c7k7mzN8Vcb5K5YYziUBPWQqGtjAjobGkPcDlVRhKjCDwLTXNYPGAQdbIUYBXK0oXRQ1GM0pnqnCyUAdNCqfx6KsDhq1Ym7ARmjDBeCFzCrDURFCIn4rTtQ9/wtexZ0R3pTq4vVn+H2eRO1V9nIp0uVn+D0cbejUCG4OQQGsxoUYGdARQaSgUBhdN1bBpKmudtppGGfsFLPZXKtZrTSuog/AT5t2ouSK6mR7mRgn8ic8642ruKV+SFoI/cIfT2GPop5J1LIT+bSCnIgATBi6pMukXRYixtr3pYHJLVm/1sstrXfq2JzhR/+23da6IJqkZK8UHlVRlIURgYsQ61+kdzZT9TD65cx93o5FQ0peOe+5qpMb57/vtrCrnrDYX8gOnPEnL72u+wL682ZugHxZHjEnxSUE6zodVFM6rflVgIvD/qZqj35DpB4E+u029yO2O/5YcYf4AFE5c7c9htalwN6BB83qivg8mKV/JmhUvKYOUYKYYGuKz1ZrquB/8zXjWcQeCnDbrzfGrIkkpIPQLyqbMKq5VxBTNYJa/4N0yUAW8oiIJjVWT7PeOeGqHeo9Fy7VitXwPRaoeCwfbq3aFNidaN0SnVyMhKHhqXOPtU6NS5yVqlUV1EsfzD8f3Dgif2u34HultISZpGfTFWF40UJak+inUl69KXGlVCFyiydVHVN6nxhMYD1GzZ1Lmvu476szPqaPQyR0x47D/Kt1nf/7Lhpv8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-25T07:14:40.956Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="k4N1eS0PjIatO3-dmCy0" version="14.9.8" type="github">
+  <diagram id="dEx86dSYwrzgcJbfhVJY" name="第 1 页">
+    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBNgjx7pjF_n1ZrfmN2p-1" target="qBNgjx7pjF_n1ZrfmN2p-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="150" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBNgjx7pjF_n1ZrfmN2p-2" target="qBNgjx7pjF_n1ZrfmN2p-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBNgjx7pjF_n1ZrfmN2p-2" target="qBNgjx7pjF_n1ZrfmN2p-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-2" value="异步执行" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBNgjx7pjF_n1ZrfmN2p-4" target="qBNgjx7pjF_n1ZrfmN2p-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-4" value="动态数据源，&lt;br&gt;多线程执行" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-6" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="293" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBNgjx7pjF_n1ZrfmN2p-9" target="qBNgjx7pjF_n1ZrfmN2p-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-9" value="遍历所有数据源" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-11" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="343" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qBNgjx7pjF_n1ZrfmN2p-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBNgjx7pjF_n1ZrfmN2p-12" value="&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;message设置数据源，&lt;br&gt;多线程执行发送&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="250" width="190" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
